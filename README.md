@@ -20,6 +20,12 @@
 - **自动新建文件夹**：支持一键勾选“保存至 `douyin-emoji` 文件夹”，自动将所有提取的表情存入 Downloads 默认路径下的独立子目录，避免文件杂乱。
 - **支持多种格式**：完美兼容静态图片（WebP、PNG等）与动态表情包（GIF）。
 
+### 🖼️ 效果预览
+
+| 功能界面预览 1 | 功能界面预览 2 |
+| :---: | :---: |
+| <img src="test1.png" alt="Preview 1" width="400"> | <img src="test2.png" alt="Preview 2" width="400"> |
+
 ### 🚀 安装教程
 
 1. 前往本项目的 [Releases](../../releases) 页面，下载最新的 `v1.0.0` 离线安装包（`.crx` 或 `.zip`）。
@@ -65,9 +71,15 @@ A lightweight and minimal browser extension (Chrome & Edge) designed for Douyin 
 - **Subfolder Auto-creation**: Toggle option to save files directly into a dedicated `douyin-emoji` subfolder under your default Downloads path.
 - **Multi-format Support**: Fully supports static images (WebP, PNG, etc.) and animated stickers (GIF).
 
+### 🖼️ Screenshots
+
+| Preview 1 | Preview 2 |
+| :---: | :---: |
+| <img src="test1.png" alt="Preview 1" width="400"> | <img src="test2.png" alt="Preview 2" width="400"> |
+
 ### 🚀 Installation
 
-1. Go to the [Releases](../../releases) page of this repository and download the latest `v1.0.0` release (`.crx` or `.zip`).
+1. Go to the [Releases](../../releases) repository page and download the latest `v1.0.0` release (`.crx` or `.zip`).
 2. If you downloaded a `.zip` file, extract it to a local folder first.
 3. Open Chrome or Edge and navigate to:
    - **Chrome**: `chrome://extensions/`
