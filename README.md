@@ -19,7 +19,6 @@
 - **一键全选 / 反选**：内置便捷的批量操作按钮，轻松筛选目标表情包。
 - **自动新建文件夹**：支持一键勾选“保存至 `douyin-emoji` 文件夹”，自动将所有提取的表情存入 Downloads 默认路径下的独立子目录，避免文件杂乱。
 - **支持多种格式**：完美兼容静态图片（WebP、PNG等）与动态表情包（GIF）。
-- **完全无侵权设计**：独立的霓虹风 UI 图标与视觉方案，安全可靠。
 
 ### 🚀 安装教程
 
@@ -65,7 +64,6 @@ A lightweight and minimal browser extension (Chrome & Edge) designed for Douyin 
 - **Select All / Invert**: Built-in convenient batch operation buttons to easily filter target stickers.
 - **Subfolder Auto-creation**: Toggle option to save files directly into a dedicated `douyin-emoji` subfolder under your default Downloads path.
 - **Multi-format Support**: Fully supports static images (WebP, PNG, etc.) and animated stickers (GIF).
-- **Non-infringing Design**: Custom neon-styled UI icons and visual themes, safe and independent.
 
 ### 🚀 Installation
 
